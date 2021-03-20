@@ -1,0 +1,2 @@
+[List Installed]
+tracepath Fri Mar 19 22:24:07 +03 2021
